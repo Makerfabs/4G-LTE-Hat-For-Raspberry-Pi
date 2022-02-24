@@ -29,6 +29,8 @@ Wiki Link : [4G LTE Hat For Raspberry Pi]()
 
 4G LTE Hat For Raspberry Pi integrated two types of the 4G LTE CAT4 module SIM7600A-H or SIM7600E-H, SIM7600A-H/SIM7600E-H is a complete multi-band LTE-FDD/LTE-TDD/HSPA+/UMTS/EDGE/GPRS/GSM module solution in LCC type which supports LTE CAT4 up to 150Mbps for downlink and 50Mbps for uplink data transfer, much faster and popular than 2G/3G.
 
+It can be used as a wireless card with USB and raspberry PI connections. It can also be controlled through GPIO's hardware UART.
+
 ## Module Type
 
 ![type](md_pic/type.jpg)
